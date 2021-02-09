@@ -1,0 +1,28 @@
+{
+  "name": "repl-db-orm",
+  "version": "1.0.0",
+  "description": "A quick ORM for repl's key/value database. Inspired by Mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "orm",
+    "repl",
+    "mongoose"
+  ],
+  "author": "Garrett Allen",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrenallen/repl-db-orm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adrenallen/repl-db-orm/issues"
+  },
+  "homepage": "https://github.com/adrenallen/repl-db-orm#readme"
+}
