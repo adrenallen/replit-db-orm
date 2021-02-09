@@ -12,7 +12,7 @@
     "mongoose"
   ],
   "author": "Garrett Allen",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@replit/database": "^2.0.0"
   },
