@@ -1,6 +1,6 @@
 # Repl DB ORM
 
-A quick experiment to build an ORM on top of (Repl.it)[https://repl.it]'s existing key/value based database.
+A quick experiment to build an ORM on top of [Repl.it](https://repl.it)'s existing key/value based database.
 
 [More information about Repl's database can be found here](https://docs.repl.it/misc/database)
 
